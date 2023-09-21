@@ -1,0 +1,9 @@
+Funciones.csproj
+Funciones.sln
+Funciones.suo
+.gitattributes
+Properties/
+bin/
+obj/
+App.config
+.vs/
